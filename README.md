@@ -2,7 +2,8 @@
 # Week-8-IP-Moringa
 # 
 # 
-Moringa_Data_Science_Week8_Independent_Project
+New Moringa_Data_Science_Week8_Independent_Project.
+
 Authors- Stella-Kimani
 Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. Use the healthcare datasets provided to accomplish the following:  
 
