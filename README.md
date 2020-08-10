@@ -5,6 +5,7 @@
 Read the Newest Moringa_Data_Science_Week8_Independent_Project.
 
 Authors- Stella-Kimani
+
 Nairobi Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. Use the healthcare datasets provided to accomplish the following:  
 
 As a data scientist build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
