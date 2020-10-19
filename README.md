@@ -1,6 +1,6 @@
-# stl-hypothyrodism-IP
-# Week-8-IP-Moringa
-# 
+ Hypothyrodism prediction
+
+
 # 
 Read the Newest Moringa_Data_Science_Week8_Independent_Project.
 
