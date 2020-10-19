@@ -1,4 +1,4 @@
-## Hypothyrodism prediction##
+## Hypothyrodism prediction
 
 
 # 
